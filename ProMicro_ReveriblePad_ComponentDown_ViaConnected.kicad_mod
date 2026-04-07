@@ -1,4 +1,4 @@
-(footprint "ProMicro_ComponentDown_ReveriblePad_ViaConnected"
+(footprint "ProMicro_ReveriblePad_ComponentDown_ViaConnected"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
