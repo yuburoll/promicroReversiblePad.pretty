@@ -11,6 +11,9 @@ this is KiCAD footprint for reversible PCB design.
 - ViaUnconnected: provided with vias, but unconnected.
 - OuterPad: Pads are positioned outer side of promicro.
 
+this uses promicro symbol of [kbd library by foostan](https://github.com/foostan/kbd).
+
+
 ## ReversiblePad
 ![1](images/padFootprint.png)
 ![2](images/padFootprintPhoto.jpg)
